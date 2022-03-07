@@ -1,0 +1,38 @@
+body {
+    background-color: #6667AB;
+}
+
+p {
+    color: #2B3361;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.pinkish-text {
+    color: #392c39;
+}
+
+.about-site {
+    color: #8967AB;
+    font-size: 1.25rem;
+    font-weight: bolder;
+}
+
+#about-me-header {
+    font-size: 4.0rem;
+    font-weight: 1200;
+    text-shadow: 0.25rem 0.25rem #6797AB;
+}
+
+li {
+    list-style: none;
+    color: #AB679E;
+}
+
+.about-site.pinkish-text {
+    text-shadow: 0.50rem 0.50rem #6797AB;
+}
+
+div .about-site {
+    color: green;
+}
